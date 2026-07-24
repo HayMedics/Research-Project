@@ -1,5 +1,6 @@
 # Research-Project
-A STUDY TO DETERMINE THE KNOWLEDGE, ATTITUDE AND PRACTICE OF SEASONAL MALARIA CHEMOPREVENTION AMONG WOMEN OF CHILD-BEARING AGE IN AGBABIAKA COMMUNITY ILORIN SOUTH LOCAL GOVERNMENT AREA, KWARA STATE
+A Study To Determine The Knowledge, Attitude And Practice Of Seasonal Malaria Chemoprevention Among Women Of Child-Bearing Age In Agbabiaka Community Ilorin South Local Government Area, Kwara State
+
 Background 
 Malaria is a vector-borne disease caused by Plasmodium species, transmitted by female Anopheles mosquitoes, and endemic in Sub-Saharan Africa. It causes significant morbidity and mortality, especially in rural areas with poor hygiene and inadequate protection. In 2021, there were 247 million cases and 619,000 deaths, mostly in Africa. Seasonal Malaria Chemoprevention (SMC) is a proactive strategy aimed at reducing the burden of malaria among vulnerable children. By administering Sulfadoxine-Pyrimethamine and Amodiaquine (SPAQ) seasonally to children aged 3 months to 5 years, SMC seeks to decrease malaria's prevalence, morbidity, and mortality. This evidence-based approach is endorsed by the World Health Organization, offering a lifeline to young lives threatened by this preventable disease.
 
